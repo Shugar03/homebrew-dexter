@@ -1,6 +1,6 @@
 cask "dexter" do
-  version "0.1.0"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  version "0.1.0-rc.1"
+  sha256 "7a9dbe24fd21d3a5d285b09448a2cb663fcd10c5a7e0d8b13823c952ae173cde"
 
   url "https://github.com/Shugar03/dexter/releases/download/v#{version}/dexter-#{version}-macos-universal.tar.gz"
   name "dexter"
